@@ -1,1 +1,1 @@
-# python-ml-mini-project
+# Python | Régression linéaire (MCO) from scratch
