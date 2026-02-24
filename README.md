@@ -1,4 +1,4 @@
-# Python | Régression linéaire (MCO) from scratch
+# Python | Linear regression (OLS) from scratch
 
 This project implements a linear regression framework in Python developed from scratch to understand the statistical and computational foundations of Ordinary Least Squares (OLS), rather than relying on existing machine-learning libraries.
 
